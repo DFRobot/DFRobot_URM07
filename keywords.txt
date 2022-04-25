@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring DFRobot_URM07
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DFRobot_URM07   KEYWORD1
+DFRobot_URM07_SoftwareSerial    KEYWORD1
+DFRobot_URM07_HardwareSerial    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+gainDistance    KEYWORD2
+gainTemperature KEYWORD2
+changeBaudreat  KEYWORD2
+changeAddr  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ERROR   LITERAL1
+SUCCESS LITERAL1
+MAX_LEN LITERAL1
+HEADER_H    LITERAL1
+HEADER_L    LITERAL1  
+GET_DIS_CMD LITERAL1
+GET_TEMP_CMD    LITERAL1
+SET_BAUD_REAT   LITERAL1
+SET_ADDR    LITERAL1
+BAUD_REAT_1200BPS   LITERAL1
+BAUD_REAT_2400BPS   LITERAL1
+BAUD_REAT_4800BPS   LITERAL1
+BAUD_REAT_9600BPS   LITERAL1
+BAUD_REAT_14400BPS  LITERAL1
+BAUD_REAT_19200BPS  LITERAL1
+BAUD_REAT_28800BPS  LITERAL1
+BAUD_REAT_38400BPS  LITERAL1
+BAUD_REAT_57600BPS  LITERAL1
+BAUD_REAT_115200BPS LITERAL1
+BAUD_REAT_128000BPS LITERAL1
+BAUD_REAT_256000BPS LITERAL1
